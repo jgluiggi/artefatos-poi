@@ -3,7 +3,7 @@
 
 # Reducing amount of replicas
 replicas: 1
-minimumMasterNodes: 2
+minimumMasterNodes: 1
 
 # Permit co-located instances for solitary minikube virtual machines.
 antiAffinity: "soft"
